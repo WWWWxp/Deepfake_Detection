@@ -13,7 +13,7 @@
 ## 环境配置
 
 ### 前置要求
-- Python 3.9+
+- Python 3.10+
 - 支持CUDA的GPU（推荐）
 - Conda包管理器
 
@@ -21,7 +21,7 @@
 
 1. 创建并激活conda环境：
 ```bash
-conda create -n deepfake python=3.6
+conda create -n deepfake python=3.10
 conda activate deepfake
 ```
 
