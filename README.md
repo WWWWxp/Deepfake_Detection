@@ -13,7 +13,7 @@ A deep learning framework for audio deepfake detection using state-of-the-art mo
 ## Environment Setup
 
 ### Prerequisites
-- Python 3.9+
+- Python 3.10+
 - CUDA-compatible GPU (recommended)
 - Conda package manager
 
@@ -21,7 +21,7 @@ A deep learning framework for audio deepfake detection using state-of-the-art mo
 
 1. Create and activate conda environment:
 ```bash
-conda create -n deepfake python=3.6
+conda create -n deepfake python=3.10
 conda activate deepfake
 ```
 
