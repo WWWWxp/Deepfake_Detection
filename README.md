@@ -1,6 +1,6 @@
 # Deepfake Detection
 
-A deep learning framework for audio deepfake detection using state-of-the-art models including AASIST and LCNN architectures.
+A deep learning framework for audio deepfake detection using models including AASIST and LCNN architectures.
 
 ## Features
 
